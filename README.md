@@ -52,4 +52,5 @@
 ## 🪧 Ostatní
 
 > „Kód není jen nástroj. Je to způsob, jak tvořit něco, co lidem pomáhá.“ 🚀
+
 > Zapomenutelný účet: @BlobyCZE na Githubu (tohle je good účet co mám xD)
