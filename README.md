@@ -1,6 +1,6 @@
 <h1 align="center">👋 Ahoj, já jsem BlobyCZ</h1>
 <p align="center">
-  🧑‍💻 Vývojář Discord botů • 🗄️ MongoDB nadšenec • 🇨🇿 Český tvůrce
+  🧑‍💻 Vývojář Discord botů • 🗄️ MongoDB nadšenec
 </p>
 
 ---
@@ -10,7 +10,7 @@
 - 🔧 Zaměřuji se na vývoj botů pomocí **Discord.js**
 - 🗃️ Pracuji s databázemi **MongoDB** pro ukládání dat
 - 🎮 Milovník her, technologií a zvukového designu
-- 📚 Neustále se učím nové věci a zlepšuji své projekty
+- 📚 Učím se 2 roky discord.js, abych věděl (chyby, funkce, atd.)
 
 ---
 
