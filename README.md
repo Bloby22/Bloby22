@@ -37,7 +37,7 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bloby22&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloby22&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloby22" alt="Top Languages" />
 </p>
 
 ---
