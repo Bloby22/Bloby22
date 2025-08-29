@@ -8,7 +8,6 @@
 ## 🧠 O mně
 
 - 🔧 Zaměřuji se na vývoj botů pomocí **Discord.js**
-- 🗃️ Pracuji s databázemi **MongoDB** pro ukládání dat
 - 🎮 Milovník her, technologií a zvukového designu
 - 📚 Učím se 2 roky discord.js, abych věděl (chyby, funkce, atd.)
 
