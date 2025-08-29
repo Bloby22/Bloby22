@@ -1,6 +1,6 @@
 <h1 align="center">👋 Ahoj, já jsem BlobyCZ</h1>
 <p align="center">
-  🧑‍💻 Vývojář Discord botů • 🗄️ MongoDB nadšenec
+  🧑‍💻 Vývojář Discord botů
 </p>
 
 ---
