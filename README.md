@@ -16,9 +16,9 @@
 
 ## ⚙️ Technologie
 
-| 🔌 Backend | 🗄️ Databáze | 🧰 Nástroje |
-|-----------|-------------|-------------|
-| Discord.js | MongoDB | Visual Studio Code, Git |
+| 🔌 Backend | 🧰 Nástroje |
+|-------------|-------------|
+| Discord.js | Visual Studio Code, Git |
 
 ---
 
