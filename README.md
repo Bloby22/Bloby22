@@ -1,42 +1,20 @@
-<h1 align="center">👋 Hi, I'm BlobyCZ</h1>
+<div align="center" style="width: 100%; height: 150px; background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px;">
+</div>
+
+<h1 align="center">Skill issue: NPM, Discord, JS, TypeScript</h1>
+
 <p align="center">
-  🧑‍💻 Discord bot developer & NPM developer
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,discord,npm" height="50"/>
 </p>
 
 ---
 
-## ⚙️ Technology
+### 💻 About Me
+- Discord Bot Developer & Web Developer
+- Linux user, pro-performance setups
+- Gamer: Valorant & Call of Duty
 
-| 🔌 Backend | 🧰 Tools |
-|-------------|-------------|
-| Discord.js | Visual Studio Code, Git |
-
----
-
-## 🏆 GitHub Trophies
-
+### 🔧 Skills
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bloby22&theme=onedark&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,npm,discord" height="50"/>
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bloby22&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
----
-
-## 📫 Contact
-
-- 💬 Discord: `@blobycz`
-- 📧 Email: [blobycz@proton.me](mailto:blobycz@proton.me)
-
----
-
-## 🪧 Other
-
-> "Code isn't just a tool. It's a way to create something that helps people." 🚀
-
-> Forgettable account: @NotBloby on Github (this is the good account I have xD)
