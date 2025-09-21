@@ -5,11 +5,6 @@
 
 ---
 
-<a href="https://discord.com/users/1178258199590228078" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1178258199590228078?bg=1f1f1f&borderRadius=5px">
-
----
-
 ## ⚙️ Technology
 
 | 🔌 Backend | 🧰 Tools |
