@@ -1,27 +1,19 @@
-<h1 align="center">👋 Ahoj, já jsem BlobyCZ</h1>
+<h1 align="center">👋 Hi, I'm BlobyCZ</h1>
 <p align="center">
-  🧑‍💻 Vývojář Discord botů
+  🧑‍💻 Discord bot developer & NPM developer
 </p>
 
 ---
 
-## 🧠 O mně
+## ⚙️ Technology
 
-- 🔧 Zaměřuji se na vývoj botů pomocí **Discord.js**
-- 🎮 Milovník her, technologií a zvukového designu
-- 📚 Učím se 2 roky discord.js, abych věděl (chyby, funkce, atd.)
-
----
-
-## ⚙️ Technologie
-
-| 🔌 Backend | 🧰 Nástroje |
+| 🔌 Backend | 🧰 Tools |
 |-------------|-------------|
 | Discord.js | Visual Studio Code, Git |
 
 ---
 
-## 🏆 GitHub Trofeje
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bloby22&theme=onedark&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
@@ -29,25 +21,22 @@
 
 ---
 
-## 📊 GitHub Statistiky
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bloby22&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloby22&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
 - 💬 Discord: `@blobycz`
 - 📧 Email: [blobycz@proton.me](mailto:blobycz@proton.me)
 
 ---
 
-## 🪧 Ostatní
+## 🪧 Other
 
-> „Kód není jen nástroj. Je to způsob, jak tvořit něco, co lidem pomáhá.“ 🚀
+> "Code isn't just a tool. It's a way to create something that helps people." 🚀
 
-> Zapomenutelný účet: @NotBloby na Githubu (tohle je good účet co mám xD)
+> Forgettable account: @NotBloby on Github (this is the good account I have xD)
