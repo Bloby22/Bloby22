@@ -21,11 +21,6 @@
   <img src="https://skillicons.dev/icons?i=discord,vscode" height="50"/>
 </p>
 
-### • My favorite repository
-<p align="center">
-  <a href="https://github.com/bloby22/pckgi">https://github.com/bloby22/pckgi</a>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
