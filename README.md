@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/800x80/4facfe/00f2fe?text=+" alt="Gradient Banner" style="border-radius:12px"/>
-</p>
-
 <h1 align="center">♤ Hi, I'm Bloby! ♤</h1>
 
 ---
