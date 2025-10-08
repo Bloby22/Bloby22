@@ -5,7 +5,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,npm,discord" height="50" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,npm,discord,java" height="50" />
 </p>
 
 ### 🖥 OS & Apps
