@@ -8,9 +8,9 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,npm,discord,java" height="50" />
 </p>
 
-### 🖥 OS & Apps
+### 🖥 OS & Apps 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,discord,vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,discord,vscode,spotify" height="50" />
 </p>
 
 ---
