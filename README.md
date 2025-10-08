@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVfW4l4GJz5cVq/giphy.gif" width="200" alt="Bloby vibes"/>
-</p>
-
 <h1 align="center">♤ Hey, I'm Bloby ♤</h1>
 <p align="center">Developer | Discord Bot Wizard | Minecraft Plugin Crafter</p>
 
