@@ -48,49 +48,6 @@
 
 <br/>
 
-## 🎯 What I Do
-
-<!-- Moderní kartičky s gradientem -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Discord Bots
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="80" />
-
-Creating intelligent Discord bots with:
-- ⚡ Slash Commands & Context Menus
-- 🎨 Interactive Buttons & Modals
-- 🔒 Advanced Moderation Systems
-- 🎵 Music & Entertainment Features
-- 📊 Analytics & Logging
-- 🌐 API Integrations
-
-</td>
-<td width="50%" valign="top">
-
-### ⛏️ Minecraft Plugins
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="80" />
-
-Building custom server plugins with:
-- 🎮 Unique Gameplay Mechanics
-- 🎪 Custom Events & Mini-games
-- 💰 Economy Systems
-- 🛡️ Anti-Cheat & Protection
-- 🏆 Leaderboards & Stats
-- 🔧 Performance Optimization
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Vizuální oddělovač -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 ## 💻 Terminal Status
 
 <!-- Stylový ASCII terminal -->
