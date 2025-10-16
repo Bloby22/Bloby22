@@ -14,7 +14,6 @@
 <img src="https://skillicons.dev/icons?i=js,nodejs,java,vscode,github,discord,npm,linux&theme=dark&perline=6" />
 
 <br/>
-<br/>
 
 <!-- Stylový kód blok -->
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=bloby22&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=15&langs_count=6" />
