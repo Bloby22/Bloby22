@@ -10,7 +10,7 @@
 <br/>
 
 <!-- Moderní tech stack s ikonami -->
-<img src="https://skillicons.dev/icons?i=js,nodejs,java,ts,vscode,git,github,discord,npm,linux,docker,mongodb&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,java,vscode,github,discord,npm,linux&theme=dark&perline=6" />
 
 <br/>
 <br/>
