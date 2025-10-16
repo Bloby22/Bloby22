@@ -23,16 +23,16 @@
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
 <br/>
-<sub><b>5+ Languages</b></sub>
+<sub><b>Languages</b></sub>
 <br/>
 <sub>JavaScript • Java • Node.js</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
 <br/>
-<sub><b>10+ Projects</b></sub>
+<sub><b>Projects</b></sub>
 <br/>
-<sub>Discord Bots • MC Plugins</sub>
+<sub>Discord Bots • Java Plugins • Linux package</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/coffee-beans-.png" width="60"/>
