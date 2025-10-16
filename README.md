@@ -10,6 +10,7 @@
 <br/>
 
 <!-- Moderní tech stack s ikonami -->
+## 🛡 Stack & Apps
 <img src="https://skillicons.dev/icons?i=js,nodejs,java,vscode,github,discord,npm,linux&theme=dark&perline=6" />
 
 <br/>
