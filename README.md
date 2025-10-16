@@ -18,24 +18,6 @@
 <!-- Stylový kód blok -->
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=bloby22&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=15&langs_count=6" />
 
-```typescript
-interface Developer {
-  name: string;
-  role: string[];
-  code: string[];
-  focus: string[];
-  motto: string;
-}
-
-const bloby: Developer = {
-  name: "Bloby",
-  role: ["Full Stack Dev", "Bot Creator"],
-  code: ["JavaScript", "TypeScript", "Java"],
-  focus: ["Discord Bots", "Minecraft Plugins"],
-  motto: "Code is poetry in motion ✨"
-};
-```
-
 <br clear="right"/>
 <br/>
 
