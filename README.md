@@ -10,7 +10,7 @@
 
 ### 🖥 OS & Apps 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,discord,vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode" height="50" />
 </p>
 
 ---
