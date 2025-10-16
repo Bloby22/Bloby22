@@ -64,7 +64,7 @@
 $ bloby --status
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   💻 System Status         │ ✅ Online & Running
-  📦 Active Projects       │ 🔢 7 in active development
+  📦 Active Projects       │ 🔢 3 in active development
   🤖 Discord Bots          │ ⚡ Running smoothly
   🎮 Minecraft Plugins     │ 🧩 Event systems active
   🔥 Development Streak    │ 🎯 Consistent progress
