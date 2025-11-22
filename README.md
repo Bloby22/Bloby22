@@ -12,7 +12,7 @@
 <!-- Moderní tech stack s ikonami -->
 ## 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,java,vscode,discord,npm,idea,mysql,windows,lua&theme=dark&perline=5" height="100" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,java,vscode,discord,npm,idea,mysql,windows,lua,typescript&theme=dark&perline=5" height="100" />
 
 <br/>
 <br/>
