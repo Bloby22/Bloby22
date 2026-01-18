@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Bloby%20👋&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20future,%20one%20commit%20at%20a%20time&descSize=20&descAlignY=55" />
 
 <!-- Animovaný typing efekt -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Discord+Bot+Developer+%F0%9F%A4%96;Minecraft+Plugin+Creator+%E2%9B%8F%EF%B8%8F;Building+Scalable+Systems+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%99;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Discord+Bot+Developer+%F0%9F%A4%96;TypeScript+%2B+Node.js+Expert+%F0%9F%9A%80;GTFS+Data+Processing+%F0%9F%93%8A;Open+Source+Enthusiast+%F0%9F%92%99;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing Animation" />
 
 <br/>
 <br/>
@@ -12,7 +12,7 @@
 <!-- Moderní tech stack s ikonami -->
 ## 🛠️ Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,vscode,discord,npm,typescript&theme=dark" height="200" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,discord,vscode,npm,git,github&theme=dark" height="60" />
 
 <br/>
 <br/>
@@ -25,14 +25,14 @@
 <br/>
 <sub><b>Languages</b></sub>
 <br/>
-<sub>JavaScript • Java • Node.js</sub>
+<sub>TypeScript • JavaScript • Node.js</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
 <br/>
 <sub><b>Projects</b></sub>
 <br/>
-<sub>Discord Bots • Java Plugins • Linux package</sub>
+<sub>Discord Bots • Transit Systems • Automation</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/coffee-beans-.png" width="60"/>
@@ -40,6 +40,38 @@
 <sub><b>∞ Coffee Cups</b></sub>
 <br/>
 <sub>Powered by caffeine ☕</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Vizuální oddělovač -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚆 DopravaJS</h3>
+<div align="center">
+<a href="https://github.com/bloby22/DopravaJS" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=DopravaJS&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=20" />
+</a>
+<p><strong>Discord bot pro české dopravní systémy</strong><br/>TypeScript • Discord.js • GTFS</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🎮 Další Projekt</h3>
+<div align="center">
+<a href="https://github.com/bloby22" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=bloby22&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=20" />
+</a>
+<p><strong>Tvůj další projekt</strong><br/>Tech stack zde</p>
+</div>
 </td>
 </tr>
 </table>
@@ -71,6 +103,25 @@
 ## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=bloby22&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+<br/>
+
+<!-- Vizuální oddělovač -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 💼 What I'm Working On
+
+```typescript
+const bloby = {
+    location: "Czech Republic 🇨🇿",
+    currentFocus: "Discord Bots & Transit Systems",
+    learning: ["Advanced TypeScript", "GTFS Realtime", "Scalable Architecture"],
+    hobbies: ["Coding", "Open Source", "Public Transit Enthusiast"],
+    funFact: "I can debug code faster than I can find my keys 🔑"
+}
+```
 
 <br/>
 
