@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Bloby%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <!-- Typing efekt -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Discord+Bot+Developer+%F0%9F%A4%96;TypeScript+%2B+Node.js+%F0%9F%9A%80;GTFS+Data+Processing+%F0%9F%93%8A;Always+Learning+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Discord+Bot+Developer+%F0%9F%A4%96;TypeScript+%2B+Node.js+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" />
 
 <br/>
 
