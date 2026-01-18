@@ -64,16 +64,6 @@
 <p><strong>Discord bot pro české dopravní systémy</strong><br/>TypeScript • Discord.js • GTFS</p>
 </div>
 </td>
-<td width="50%">
-<h3 align="center">🎮 Další Projekt</h3>
-<div align="center">
-<a href="https://github.com/bloby22" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=bloby22&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=20" />
-</a>
-<p><strong>Tvůj další projekt</strong><br/>Tech stack zde</p>
-</div>
-</td>
-</tr>
 </table>
 
 <br/>
@@ -108,20 +98,6 @@
 
 <!-- Vizuální oddělovač -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 💼 What I'm Working On
-
-```typescript
-const bloby = {
-    location: "Czech Republic 🇨🇿",
-    currentFocus: "Discord Bots & Transit Systems",
-    learning: ["Advanced TypeScript", "GTFS Realtime", "Scalable Architecture"],
-    hobbies: ["Coding", "Open Source", "Public Transit Enthusiast"],
-    funFact: "I can debug code faster than I can find my keys 🔑"
-}
-```
 
 <br/>
 
