@@ -1,83 +1,73 @@
 <div align="center">
 
-<!-- 🔥 HERO BANNER -->
+<!-- HERO -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Bloby%20👋&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-
-<!-- ⌨️ TYPING -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Discord+Bot+Developer+🤖;TypeScript+%2B+Node.js+🚀;Backend+%2F+Automation+Systems;Always+Learning+🌱" />
-
-<br/>
-<br/>
-
-## 🧠 About Me
-
-💻 Backend & Discord bot developer
-⚡ Building automation, systems & tools
-🧩 Focus on performance + clean architecture
-🚀 Constantly experimenting & learning new tech
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00d9ff&height=140&section=header&text=Bloby&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
 <br/>
 
-## 🛠️ Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Discord+Systems+Builder;TypeScript+%7C+Node.js;Automation+%26+Infrastructure" />
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,discord,express,mysql,git,github,vscode&theme=dark" height="55" />
+</div>
 
-<br/>
+---
 
-## 📦 Projects & Systems
+## 🧠 Who am I
 
-🔹 Event & automation Discord bots
-🔹 Moderation + logging systems
-🔹 API integrations & dashboards
-🔹 Custom backend services
+Backend developer focused on building **Discord bots, automation tools and backend systems**.
+I care about performance, architecture and clean logic — not spaghetti code held by hope.
 
-<br/>
+---
 
-<!-- ✨ DIVIDER -->
+## ⚙️ Stack
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 
-## 📊 GitHub Analytics
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,git,github,vscode&theme=dark" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bloby22&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=18" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bloby22&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border_radius=18" />
+</div>
 
-<br/>
+---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloby22&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=18" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=bloby22&theme=radical&no-frame=true&no-bg=true&column=3&margin-w=12&margin-h=12" />
+## 🚀 What I Build
 
-<br/>
+* Event & moderation bots
+* Logging & analytics systems
+* API services
+* Automation tools
+* Custom dashboards
 
-<!-- ✨ DIVIDER -->
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📊 Stats
 
-## 🌐 Connect With Me
+<div align="center">
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=bloby22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=bloby22&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+---
+
+## 🌐 Contact
+
+<div align="center">
 
 <a href="https://discord.com/users/1178258199590228078">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="38" />
-</a>
-
-<a href="https://github.com/bloby22">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <a href="mailto:michal@bloby.eu">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/>
-<br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=bloby22&color=00d9ff&style=flat-square&label=Profile+Views" />
+---
 
-<br/>
+<div align="center">
 
-<!-- 🔚 FOOTER -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" />
+<img src="https://komarev.com/ghpvc/?username=bloby22&color=00d9ff&style=flat-square" />
 
 </div>
