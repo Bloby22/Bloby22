@@ -11,9 +11,9 @@
 <br/>
 
 ## 🧠 About
-
-Backend developer focused on scalable Discord systems, automation tools and backend services.
-Performance, clean architecture and real-world usability over hype stacks.
+- Backend developer focused on scalable Discord systems
+- Automation tools and backend services.
+- Performance, clean architecture and real-world usability over hype stacks.
 
 <br/>
 
