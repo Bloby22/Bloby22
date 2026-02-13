@@ -12,9 +12,8 @@
 
 ## 🧠 About
 
-Backend developer focused on building scalable Discord systems, automation tools and custom backend services.
-
-I enjoy designing clean architectures, optimizing performance and creating tools that actually solve problems — not just look good on GitHub.
+Backend developer focused on scalable Discord systems, automation tools and backend services.
+Performance, clean architecture and real-world usability over hype stacks.
 
 <br/>
 
@@ -28,30 +27,32 @@ I enjoy designing clean architectures, optimizing performance and creating tools
 
 <br/>
 
-## 🚀 Projects Focus
-
-• Discord bots & event systems
-• Moderation & logging infrastructure
-• API integrations
-• Automation services
-• Dashboards & backend tools
-
-<br/>
-
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bloby22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bloby22&theme=tokyonight&hide_border=true&background=0d1117&border_radius=15" />
 
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloby22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
+
 </div>
 
 <br/>
 
+## 🚀 Top Repositories
+
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloby22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
 
 </div>
 
