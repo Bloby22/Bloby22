@@ -4,16 +4,17 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Discord+Bot+Systems;TypeScript+%2F+Node.js;Automation+%26+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Low-level+Architect;Kernel+Development+(APX-64);TypeScript+%2F+C+%2F+ASM;High-Performance+Systems" />
 
 </div>
 
 <br/>
 
 ## 🧠 About
-- Backend developer focused on scalable Discord systems
-- Automation tools and backend services.
-- Performance, clean architecture and real-world usability over hype stacks.
+- **System Architect** focused on low-level development and OS kernels.
+- Currently building **APX-64**: A hybrid 64-bit OS (ASM/C Core + React/TS UI).
+- Focused on Ring 0 security, memory isolation, and "White Hacker" philosophy.
+- Performance, clean architecture, and direct hardware control.
 
 <br/>
 
@@ -21,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,git,github,vscode,discord&theme=dark" height="55" />
+<img src="https://skillicons.dev/icons?i=ts,c,cpp,asm,js,nodejs,mysql,git,github,vscode,discord&theme=dark" height="55" />
 
 </div>
 
@@ -42,18 +43,13 @@
 
 <br/>
 
-## 🚀 Top Repositories
+## 🚀 Active Project: APX-64
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
+<img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=APX-64&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
 
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bloby22&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=15" />
-
+<br/>
 </div>
 
 <br/>
