@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=180&section=header&text=Bloby&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Low-level+Architect;Kernel+Development+(APX-64);TypeScript+%2F+C+%2F+ASM;High-Performance+Systems" />
-
 </div>
 
 <br/>
@@ -22,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,c,cpp,asm,js,nodejs,mysql,git,github,vscode,discord&theme=dark" height="55" />
+<img src="https://skillicons.dev/icons?i=ts,c,cpp,asm,js,github,vscode,discord&theme=dark" height="55" />
 
 </div>
 
