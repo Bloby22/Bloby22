@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=180&section=header&text=Bloby&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=180&section=header&text=BlobyCZ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 </div>
 
