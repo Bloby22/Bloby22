@@ -42,26 +42,6 @@ I care about performance, clean architecture, and actually shipping usable stuff
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" />
 </a>
 </p>
-
----
-
-### What I Build
-
-- ⚙️ Backend systems and REST APIs  
-- 🤖 Discord bots (Discord.js)  
-- 🔄 Automation tools and CLI apps  
-- 📊 Data handling & integrations  
-
----
-
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/Bloby22" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-</a>
-<a href="https://www.twitch.tv/BlobyCZ" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" />
 </a>
 <a href="https://www.youtube.com/@BlobyCZE" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
