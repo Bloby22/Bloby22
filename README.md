@@ -1,5 +1,3 @@
-jazyk”:
-
 # Hi 👋 I'm Michal
 
 ### Backend Developer
