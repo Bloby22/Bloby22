@@ -8,7 +8,7 @@ Backend-focused developer with 3+ years of experience building scalable services
 I care about performance, clean architecture, and actually shipping usable stuff.
 
 * 🌍 Czech Republic
-* 🧠 Currently learning Majest
+* 🧠 I'm currently working on Project!
 * ⚡ Main stack: Node.js, TypeScript, Go
 * 🛠️ Focus: APIs, automation, Discord bots, backend systems
 
