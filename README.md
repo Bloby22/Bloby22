@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bloby22&show_icons=true&locale=en&layout=compact" alt="Bloby22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bloby22&show_icons=true&locale=en" alt="bloby22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bloby22&show_icons=true&locale=en" alt="Bloby22" /></p>
