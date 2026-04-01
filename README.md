@@ -43,9 +43,4 @@ I care about performance, clean architecture, and actually shipping usable stuff
 </a>
 </p>
 </a>
-<a href="https://www.youtube.com/@BlobyCZE" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
-</a>
-</p>
 
----
