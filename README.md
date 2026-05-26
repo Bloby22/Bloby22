@@ -1,116 +1,43 @@
-<div align="center">
+# Hey, I'm Michal 👋
 
-```
-███╗   ███╗██╗ ██████╗██╗  ██╗ █████╗ ██╗
-████╗ ████║██║██╔════╝██║  ██║██╔══██╗██║
-██╔████╔██║██║██║     ███████║███████║██║
-██║╚██╔╝██║██║██║     ██╔══██║██╔══██║██║
-██║ ╚═╝ ██║██║╚██████╗██║  ██║██║  ██║███████╗
-╚═╝     ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
+Backend developer from Czech Republic. I build APIs, real-time systems, and Discord bots — focused on performance and clean architecture.
 
-### backend engineer · api architect · systems builder
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Node.js+%2B+TypeScript+%2F+Go+developer;Building+scalable+APIs+%26+real-time+systems;Open+to+interesting+problems.)](https://git.io/typing-svg)
-
-</div>
+Currently working on something new.
 
 ---
 
-## `$ whoami`
-
-```yaml
-name:       Michal
-location:   Czech Republic 🇨🇿
-role:       Backend Developer
-exp:        3+ years
-focus:
-  - Scalable services & REST/GraphQL APIs
-  - Real-time systems & event-driven architecture
-  - Discord bots & automation pipelines
-  - Performance tuning & clean architecture
-currently:  Shipping something new 🚧
-```
+[![Discord Presence](https://lanyard.cnrad.dev/api/1178258199590228078)](https://discord.com/users/1178258199590228078)
 
 ---
 
-## `$ cat tech-stack.json`
+## Stack
 
-```json
-{
-  "primary": ["Node.js", "TypeScript", "Go"],
-  "secondary": ["JavaScript", "Lua"],
-  "databases": ["MySQL", "Supabase", "PostgreSQL"],
-  "environment": ["Linux", "Docker", "REST", "WebSockets"],
-  "principles": ["clean code", "performance-first", "actually ship it"]
-}
-```
+**Languages**
+Node.js · TypeScript · Go · JavaScript · Lua
 
-<div align="center">
+**Databases**
+MySQL · Supabase · PostgreSQL
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" title="Node.js" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" title="TypeScript" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="40" title="Go" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" title="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" title="MySQL" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" title="Supabase" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="40" title="Lua" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" title="Linux" />
-
-</div>
+**Environment**
+Linux · Docker · REST · WebSockets
 
 ---
 
-## `$ git log --oneline --graph`
+## What I work on
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff)
-
-</div>
+- **APIs** — REST & GraphQL, auth, rate limiting, versioning
+- **Real-time systems** — WebSockets, SSE, event-driven architecture
+- **Discord bots** — slash commands, integrations, automation
+- **Backend architecture** — clean code, scalable services, actually shipping
 
 ---
 
-## `$ ls -la ./expertise`
+## GitHub
 
-```
-drwxr-xr-x  REST & GraphQL APIs         → design, versioning, auth, rate-limiting
-drwxr-xr-x  Real-time Systems           → WebSockets, SSE, pub/sub patterns
-drwxr-xr-x  Discord Bots                → slash commands, event handlers, integrations
-drwxr-xr-x  Automation Pipelines        → task queues, cron jobs, webhooks
-drwxr-xr-x  Database Design             → schema design, query optimization, migrations
-drwxr-xr-x  Backend Architecture        → microservices, monorepos, clean arch
-```
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=transparent&hide=stars,prs&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
 
 ---
 
-## `$ ping michal`
+## Contact
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%2300D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-%2300D9FF?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/yourid)
-[![Email](https://img.shields.io/badge/Email-%2300D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your@email.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-> always building. always shipping. ⚡
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=00D9FF&label=visitors)
-
-</div>
+[GitHub](https://github.com/yourusername) · [Discord](https://discord.com/users/1178258199590228078) · [Email](mailto:your@email.com)
