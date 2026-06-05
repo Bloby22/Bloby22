@@ -76,29 +76,6 @@
 </div>
 
 <br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bloby22&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6e40c9,50:0d1117,100:0d1117&height=120&section=footer&reversal=true" width="100%"/>
-
-<sub>
-  <code>while(alive) { code(); learn(); build(); }</code>
-</sub>
-
-<br/>
-
 ⭐ *Drop a star if you find something useful!*
 
 </div>
