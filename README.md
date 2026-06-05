@@ -13,7 +13,6 @@
 <br/><br/>
 
 [![Discord](https://img.shields.io/badge/-%20Bloby22-%235865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e)](https://discord.com)
-[![LinkedIn](https://img.shields.io/badge/-BlobyCZ-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com)
 [![GitHub followers](https://img.shields.io/github/followers/Bloby22?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=6e40c9)](https://github.com/Bloby22)
 [![Profile views](https://komarev.com/ghpvc/?username=Bloby22&style=for-the-badge&color=6e40c9&labelColor=1a1a2e)](https://github.com/Bloby22)
 
@@ -51,6 +50,17 @@
 </div>
 
 <br/>
+
+
+## 💬 Discord Status
+ 
+<div align="center">
+[![Discord Presence](https://lanyard.cnrad.dev/api/1178258199590228078?theme=dark&bg=0d1117&borderRadius=12px&animated=true&hideDiscrim=true&showDisplayName=true)](https://discord.com/users/1178258199590228078)
+ 
+</div>
+
+<br/>
+
 
 ## 📊 Stats
 
