@@ -51,17 +51,6 @@
 
 <br/>
 
-
-## 💬 Discord Status
- 
-<div align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/1178258199590228078?theme=dark&bg=0d1117&borderRadius=12px&animated=true&hideDiscrim=true&showDisplayName=true)](https://discord.com/users/1178258199590228078)
- 
-</div>
-
-<br/>
-
-
 ## 📊 Stats
 
 <div align="center">
