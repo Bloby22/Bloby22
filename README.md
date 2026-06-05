@@ -74,8 +74,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bloby22&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9f7aea&line=6e40c9&point=ffffff&area=true&area_color=6e40c9" width="100%"/>
 
 </div>
-
-<br/>
-⭐ *Drop a star if you find something useful!*
-
-</div>
