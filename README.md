@@ -29,10 +29,9 @@
 ║   name       : BlobyCZ                                       ║
 ║   alias      : Bloby22                                       ║
 ║   role       : Backend Developer                             ║
-║   location   : Czech Republic 🇨🇿                            ║
+║   location   : Czech Republic 🇨🇿                             ║
 ║   focus      : [ APIs, Systems, Clean Architecture ]         ║
 ║   currently  : Building cool stuff... 🛠️                     ║
-║   fun_fact   : The best frontend is no frontend 😄           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
