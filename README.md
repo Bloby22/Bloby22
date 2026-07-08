@@ -11,7 +11,7 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Bloby22-181717?style=for-the-badge&logo=github)](https://github.com/Bloby22)
-[![Discord](https://img.shields.io/badge/Discord-Bloby22-5865F2?style=for-the-badge&logo=discord)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-blobycz-5865F2?style=for-the-badge&logo=discord)](https://discord.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Bloby22&style=for-the-badge&color=6e40c9)](https://github.com/Bloby22)
 
 </div>
