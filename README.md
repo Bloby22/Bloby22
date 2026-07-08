@@ -44,15 +44,6 @@ currently_building:
 
 ---
 
-## 🚀 Projects
-
-| Project          | Description                               | Stack                |
-| ---------------- | ----------------------------------------- | -------------------- |
-| **PCKGI**        | CLI package manager and developer tooling | TypeScript / Node.js |
-| **InsaneKick**   | Minecraft player monitoring system        | Java / APIs          |
-| **WeatherUI**    | Modern weather application                | Flutter / Dart       |
-| **Discord Bots** | Custom automation and community systems   | Discord.js           |
-
 ---
 
 ## ⚡ Tech Stack
@@ -79,20 +70,6 @@ currently_building:
 
 ---
 
-## 🧠 Development Philosophy
-
-```
-> write_code()
-
-✓ Simple architecture
-✓ Maintainable systems
-✓ Performance first
-✓ Automation everywhere
-✓ Continuous learning
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -115,9 +92,4 @@ currently_building:
 
 </div>
 
-<div align="center">
-
-### ⚙️ Build. Break. Improve.
-
-</div>
-```
+---
