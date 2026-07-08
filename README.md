@@ -21,28 +21,18 @@
 
 ```yaml
 name: BlobyCZ
-alias: Bloby22
 country: Czech Republic 🇨🇿
 
 role:
   - Backend Developer
-  - Open Source Builder
-  - Systems Enthusiast
+  - Mobile Developer
 
 focus:
   - APIs
-  - Discord Bots
   - CLI Tools
   - Application Architecture
   - Performance
-
-currently_building:
-  - PCKGI
-  - InsaneKick
-  - WeatherUI
 ````
-
----
 
 ---
 
