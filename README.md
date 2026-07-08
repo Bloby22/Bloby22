@@ -1,6 +1,3 @@
-Tvoje README je už vizuálně dost dobré. Upravil jsem ho víc jako **moderní developer profil**: méně generický text, přidal jsem projekty, backend/system zaměření, Discord.js, Flutter, C++ a open-source vibe. Zachoval jsem dark styl.
-
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6e40c9,100:0d1117&height=220&section=header&text=BlobyCZ&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20Systems%20%7C%20Open%20Source&descAlignY=62&descSize=18&animation=fadeIn&stroke=6e40c9&strokeWidth=2" width="100%"/>
