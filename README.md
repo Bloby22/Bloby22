@@ -103,18 +103,6 @@
 
 ---
 
-## 📌 Pinned / Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Bloby22?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
-  </a>
-</p>
-
-> 💡 *Tip: pin your best 4–6 repos from your GitHub profile settings — they'll render automatically here for visitors.*
-
----
-
 ## 🎮 Bonus
 
 <p align="center">
