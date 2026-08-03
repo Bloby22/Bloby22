@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Michal (Bloby)</h1>
-  <p><b>Systems & Full-Stack Developer</b></p>
+  <p><b>Systems & Full-Stack Developer</b> based in Czechia 🇨🇿</p>
 
   <p>
     <a href="https://instagram.com/blobycz" target="_blank">
@@ -20,33 +20,14 @@
 
 <br />
 
-### ⚡ Tech Stack & Environment
+### 🚀 About Me
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,go,py,dart,lua,js,flutter,react,nodejs,docker,mysql,cmake,linux,windows,vscode,idea,androidstudio&perline=10" alt="Tech Stack" />
-</div>
-
-<br />
-
-### 📊 GitHub Overview
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bloby22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloby22&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bloby22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bloby22/Bloby22/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bloby22/Bloby22/pacman-output/galaga-contribution-graph.svg?game=galaga">
-    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/Bloby22/Bloby22/pacman-output/galaga-contribution-graph.svg?game=galaga" width="100%">
-  </picture>
-</div>
+```text
+  ┌───[ bloby@github ]────────────────────────────────────────────┐
+  │                                                               │
+  │  > 🔭 Currently working on  : C++ Windows System Tools & API  │
+  │  > 💻 Passionate about      : Low-level C/C++, Flutter & Node │
+  │  > 🎮 Interests             : Game Dev, Automation & UI/UX    │
+  │  > ⚡ Fun Fact              : I love optimizing the bloat away │
+  │                                                               │
+  └───────────────────────────────────────────────────────────────┘
