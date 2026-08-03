@@ -94,10 +94,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bloby22/Bloby22/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy graph" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Bloby22/Bloby22/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" width="95%" alt="activity-graph" />
 </p>
 
