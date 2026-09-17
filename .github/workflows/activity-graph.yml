@@ -1,23 +1,24 @@
 name: Update Activity Graph
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
     branches:
-    - main
+      - main
 
 jobs:
   build:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v6
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
