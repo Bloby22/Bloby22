@@ -6,18 +6,18 @@
 
 <p align="center">
   <a href="https://github.com/Bloby22">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Bloby22.Bloby22" alt="visitor badge" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Bloby22.Bloby22" alt="Profile views" />
   </a>
-  <img src="https://img.shields.io/github/followers/Bloby22?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Location-Czech%20Republic-blue?style=flat&logo=googlemaps&logoColor=white" alt="location" />
+  <img src="https://img.shields.io/github/followers/Bloby22?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Location-Czech%20Republic-blue?style=flat&logo=googlemaps&logoColor=white" alt="Location: Czech Republic" />
 </p>
 
 <p align="center">
   <a href="https://instagram.com/blobycz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/1178258199590228078" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -25,11 +25,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **mobile, desktop and backend** applications
-- 🌱 Constantly exploring new tools across the **C / C++ / Rust / Go / Python** ecosystem
+- 🔭 Currently building **mobile, desktop, and backend** applications
+- 🌱 Exploring systems and network programming across **C / C++ / Rust / Go / Python**
 - 💬 Ask me about **Flutter, Qt, or backend systems in Go/Rust**
 - 📫 Best way to reach me: **Discord** or **Instagram** (links above)
-- ⚡ Fun fact: I like building tools that make my own dev workflow faster
+- ⚡ Fun fact: I mostly build tools to make my own dev workflow faster
 
 ---
 
@@ -85,16 +85,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bloby22/Bloby22/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Bloby22/Bloby22/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/Bloby22/Bloby22/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="165" alt="Michal's GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Bloby22/Bloby22/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Michal's most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bloby22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Bloby22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="165" alt="Michal's contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bloby22/Bloby22/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" width="95%" alt="activity-graph" />
+  <img src="https://raw.githubusercontent.com/Bloby22/Bloby22/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" width="95%" alt="Michal's recent activity graph" />
 </p>
 
 ---
@@ -105,7 +105,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bloby22/Bloby22/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bloby22/Bloby22/pacman-output/galaga-contribution-graph.svg?game=galaga">
-    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Bloby22/Bloby22/pacman-output/galaga-contribution-graph.svg?game=galaga" width="100%">
+    <img alt="Contribution graph rendered as a Galaga arcade game" src="https://raw.githubusercontent.com/Bloby22/Bloby22/pacman-output/galaga-contribution-graph.svg?game=galaga" width="100%">
   </picture>
 </p>
 
