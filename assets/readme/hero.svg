@@ -1,0 +1,177 @@
+<svg viewBox="0 0 1200 280" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest">
+  <defs>
+    <style>
+      .mono { font-family: 'Fira Code', 'Cascadia Code', 'Consolas', monospace; }
+    </style>
+
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a1628"/>
+    </linearGradient>
+
+    <!-- Dart cyan glow -->
+    <filter id="cyanGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle text glow -->
+    <filter id="softGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.3" opacity="0.04"/>
+    </pattern>
+
+    <!-- Clip for rounded container -->
+    <clipPath id="roundedClip">
+      <rect width="1200" height="280" rx="14"/>
+    </clipPath>
+
+    <!-- Terminal panel clip -->
+    <clipPath id="termClip">
+      <rect x="610" y="30" width="560" height="220" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <!-- === BACKGROUND === -->
+  <rect width="1200" height="280" rx="14" fill="url(#bgGrad)"/>
+  <rect width="1200" height="280" fill="url(#grid)" clip-path="url(#roundedClip)"/>
+
+  <!-- Left cyan accent bar -->
+  <rect x="0" y="0" width="4" height="280" rx="2" fill="#54c5f8" opacity="0.9"/>
+
+  <!-- Outer border -->
+  <rect width="1198" height="278" x="1" y="1" rx="13"
+        fill="none" stroke="#54c5f8" stroke-width="1" opacity="0.18"/>
+
+  <!-- === DART LOGO (left decorative, large, low opacity) === -->
+  <!-- Dart logo is a stylized "D" / kite shape -->
+  <g transform="translate(30, 44)" opacity="0.07">
+    <path d="M 0 60 L 0 0 L 60 0 L 120 40 L 120 120 L 60 160 L 0 160 Z"
+          fill="#54c5f8"/>
+  </g>
+
+  <!-- === LEFT PANEL — Identity + install === -->
+
+  <!-- Eyebrow label -->
+  <text x="48" y="58" class="mono"
+        font-size="11" fill="#54c5f8" letter-spacing="3" opacity="0.9">MSYS2 · MINGW64 · DART SDK</text>
+
+  <!-- Main title -->
+  <text x="48" y="108" class="mono"
+        font-size="46" font-weight="700" fill="#e6edf3"
+        filter="url(#softGlow)">mingw64</text>
+  <text x="286" y="108" class="mono"
+        font-size="46" font-weight="700" fill="#54c5f8"
+        filter="url(#cyanGlow)">_dart</text>
+
+  <!-- Subtitle -->
+  <text x="48" y="138" class="mono"
+        font-size="14" fill="#8b949e">Dart SDK packaged for MSYS2 · native launcher · auto-updated</text>
+
+  <!-- Divider line -->
+  <line x1="48" y1="156" x2="560" y2="156" stroke="#30363d" stroke-width="1"/>
+
+  <!-- One-liner install block label -->
+  <text x="48" y="176" class="mono"
+        font-size="10" fill="#54c5f8" letter-spacing="2" opacity="0.8">INSTALL</text>
+
+  <!-- Install command box -->
+  <rect x="48" y="184" width="530" height="36" rx="6"
+        fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="62" y="207" class="mono"
+        font-size="12" fill="#8b949e">$</text>
+  <text x="78" y="207" class="mono"
+        font-size="12" fill="#c9d1d9">pacman -U </text>
+  <text x="174" y="207" class="mono"
+        font-size="12" fill="#54c5f8">.../mingw-w64-x86_64-dart-latest.pkg.tar.zst</text>
+
+  <!-- Verify command -->
+  <text x="48" y="250" class="mono"
+        font-size="12" fill="#8b949e">$ dart --version</text>
+  <text x="210" y="250" class="mono"
+        font-size="12" fill="#3fb950">  ✓ Dart SDK version 3.13.5 (stable)</text>
+
+  <!-- === RIGHT PANEL — Terminal window === -->
+
+  <!-- Terminal shadow -->
+  <rect x="612" y="32" width="558" height="218" rx="10"
+        fill="#000000" opacity="0.4"/>
+
+  <!-- Terminal background -->
+  <rect x="610" y="30" width="558" height="218" rx="10"
+        fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Terminal titlebar -->
+  <rect x="610" y="30" width="558" height="34" rx="10"
+        fill="#21262d"/>
+  <rect x="610" y="48" width="558" height="16"
+        fill="#21262d"/>
+
+  <!-- Traffic lights -->
+  <circle cx="634" cy="47" r="6" fill="#ff5f57"/>
+  <circle cx="654" cy="47" r="6" fill="#ffbd2e"/>
+  <circle cx="674" cy="47" r="6" fill="#28c840"/>
+
+  <!-- Terminal title -->
+  <text x="890" y="52" class="mono"
+        font-size="11" fill="#8b949e" text-anchor="middle">MSYS2 MINGW64</text>
+
+  <!-- Terminal content -->
+  <!-- Line 1: prompt + pacman -->
+  <text x="630" y="90" class="mono" font-size="11.5" fill="#54c5f8">Bloby22</text>
+  <text x="694" y="90" class="mono" font-size="11.5" fill="#8b949e">@DESKTOP</text>
+  <text x="762" y="90" class="mono" font-size="11.5" fill="#c9d1d9"> MINGW64 </text>
+  <text x="822" y="90" class="mono" font-size="11.5" fill="#3fb950">~</text>
+  <text x="836" y="90" class="mono" font-size="11.5" fill="#c9d1d9"> $</text>
+
+  <text x="630" y="108" class="mono" font-size="11" fill="#c9d1d9">pacman -U .../dart-latest.pkg.tar.zst</text>
+
+  <!-- Line 2: output -->
+  <text x="630" y="126" class="mono" font-size="11" fill="#8b949e">loading packages...</text>
+  <text x="630" y="142" class="mono" font-size="11" fill="#8b949e">resolving dependencies...</text>
+  <text x="630" y="158" class="mono" font-size="11" fill="#3fb950">:: Proceed with installation? [Y/n] Y</text>
+
+  <!-- Line 3: success -->
+  <text x="630" y="176" class="mono" font-size="11" fill="#8b949e">(1/1) installing </text>
+  <text x="762" y="176" class="mono" font-size="11" fill="#54c5f8">mingw-w64-x86_64-dart</text>
+  <text x="956" y="176" class="mono" font-size="11" fill="#3fb950"> ✓</text>
+
+  <!-- Line 4: verify -->
+  <text x="630" y="200" class="mono" font-size="11.5" fill="#54c5f8">Bloby22</text>
+  <text x="694" y="200" class="mono" font-size="11.5" fill="#8b949e">@DESKTOP</text>
+  <text x="762" y="200" class="mono" font-size="11.5" fill="#3fb950"> ~</text>
+  <text x="778" y="200" class="mono" font-size="11.5" fill="#c9d1d9"> $ dart --version</text>
+
+  <text x="630" y="218" class="mono" font-size="11" fill="#c9d1d9">Dart SDK version: </text>
+  <text x="750" y="218" class="mono" font-size="11" fill="#54c5f8">3.13.5</text>
+  <text x="802" y="218" class="mono" font-size="11" fill="#8b949e"> (stable) on "windows_x64"</text>
+
+  <!-- Blinking cursor -->
+  <rect x="630" y="228" width="8" height="14" rx="1" fill="#54c5f8" opacity="0.85"/>
+
+  <!-- === BADGES bottom-left === -->
+  <!-- Auto-update badge -->
+  <rect x="48" y="260" width="110" height="16" rx="3" fill="#1f2937"/>
+  <text x="103" y="271" class="mono" font-size="9" fill="#3fb950" text-anchor="middle">auto-updated daily</text>
+
+  <!-- MIT badge -->
+  <rect x="166" y="260" width="58" height="16" rx="3" fill="#1f2937"/>
+  <text x="195" y="271" class="mono" font-size="9" fill="#f0c040" text-anchor="middle">MIT license</text>
+
+  <!-- MINGW64 badge -->
+  <rect x="232" y="260" width="62" height="16" rx="3" fill="#1f2937"/>
+  <text x="263" y="271" class="mono" font-size="9" fill="#54c5f8" text-anchor="middle">MINGW64 only</text>
+
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyZGE1NTVlNi0wNzQ3LTQwMDctODFlZC0yYmJlMTMxYTFlOGYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaODt/WbBkH6xeJyLUoO3HXoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkZjc0YTk5OC1hZjFmLTRmZTQtYjk0Zi1mZmY5MzNjZGU2ZjdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoUdHWFSOXQW9/immUJSV9CwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggg9IkB61kv2NAUuJBRMMASIT0JQLmtM63BVxzttjzOZakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaF93Vs+IW0VRRXiSxiV9JOMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIJx8541dztzwsRJkl34DywmLd6i0Zp6wIVK1rPkWvaI0ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GRzHZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjJkYTU1NWU2LTA3NDctNDAwNy04MWVkLTJiYmUxMzFhMWU4Zi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmU1YzczMTkyLWI4ODgtNDgyMi1iNzYyLTAwNDNhZDdjZjBlMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCD0iQHrWS/Y0BS4kFEwwBIhPQlAua0zrcFXHO22PM5lqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggeiuioAnePFcwn3PFOAUz2tsIdGh/9dNAFgTonWSUdgaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggiw4yUFY49pMCd3+exG8WTyLW535UlRRvY/GPHf6+HgN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPJxHXjtMbRfBdf52yZZF9z7uXgKnCJWPZES496OXtZ4xysNnXRwD3DyvLMQp12i98Qtx2EzZfH9Z8B2vXgR478=</c2pa:manifest></metadata></svg>
