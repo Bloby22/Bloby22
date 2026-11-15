@@ -1,85 +1,46 @@
 <div align="center">
 
-<img src="assets/readme/hero.svg" alt="mingw64_dart — Dart SDK for MSYS2 MinGW64" width="100%"/>
-
-<br/>
-
-[![Build](https://github.com/Bloby22/mingw64_dart/actions/workflows/build.yml/badge.svg)](https://github.com/Bloby22/mingw64_dart/actions/workflows/build.yml)
-[![GitHub Release](https://img.shields.io/github/v/release/Bloby22/mingw64_dart?color=54c5f8&labelColor=161b22&style=flat-square&label=latest)](https://github.com/Bloby22/mingw64_dart/releases)
-[![License: MIT](https://img.shields.io/badge/license-MIT-f0c040?labelColor=161b22&style=flat-square)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-MINGW64-54c5f8?labelColor=161b22&style=flat-square)](https://www.msys2.org/)
+<img src="assets/hero.svg" alt="Michal — Full-Stack & Systems Developer" width="100%"/>
 
 </div>
 
 ---
 
-## Install
-
-Open an **MSYS2 MINGW64** terminal and run:
-
-```bash
-pacman -U https://github.com/Bloby22/mingw64_dart/releases/latest/download/mingw-w64-x86_64-dart-latest.pkg.tar.zst
-```
-
-Verify the install:
-
-```bash
-dart --version
-# Dart SDK version: 3.13.5 (stable) on "windows_x64"
-```
-
-> **Requires MSYS2 MINGW64.** UCRT64 and CLANG64 are not supported.
+<img src="assets/tech-stack.svg" alt="Tech Stack" width="100%"/>
 
 ---
 
-## What this is
+## `> git stats`
 
-The official Dart SDK does not ship a native MSYS2 package. This project fills that gap: a community-maintained `PKGBUILD` that wraps the official Dart SDK into a proper `pacman`-installable `.pkg.tar.zst`, plus a native `dart.exe` launcher that works correctly inside MSYS2 bash.
+<div align="center">
 
-**What's included:**
+<img src="https://github-readme-stats.vercel.app/api?username=Bloby22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloby22&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" height="170"/>
 
-- Dart SDK (latest stable — currently `3.13.5`)
-- Native `dart.exe` launcher for MSYS2 bash
-- SHA256-verified download in every build
+</div>
 
----
+<div align="center">
 
-## How it works
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bloby22&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8b949e&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
-<img src="assets/readme/how-it-works.svg" alt="Build pipeline: dart.dev → GitHub Actions → makepkg → Release → pacman" width="100%"/>
-
-A GitHub Actions workflow runs daily, checks for a new Dart stable release, opens a PR with an updated `PKGBUILD` and the official SHA256 checksum, builds the package, and publishes the `.pkg.tar.zst` to Releases automatically.
+</div>
 
 ---
 
-## Build from source
+## `> ls ./projects`
 
-```bash
-# In MSYS2 MINGW64
-pacman -S --needed git base-devel mingw-w64-x86_64-gcc
-git clone https://github.com/Bloby22/mingw64_dart.git
-cd mingw64_dart
-makepkg -si
-```
-
-> The build downloads ~200 MB (the official Dart SDK archive).
+<a href="https://github.com/Bloby22/mingw64_dart">
+  <img src="assets/project-mingw64-dart.svg" alt="mingw64_dart" width="49%"/>
+</a>
 
 ---
 
-## Compatibility
+## `> ping --socials`
 
-| Environment | Status |
-|---|---|
-| MSYS2 MINGW64 | ✅ Supported |
-| MSYS2 UCRT64 | ❌ Not supported |
-| MSYS2 CLANG64 | ❌ Not supported |
-| Native Windows (no MSYS2) | ❌ Use [dart.dev](https://dart.dev/get-dart) instead |
+<div align="center">
 
----
+[![Web](https://img.shields.io/badge/bloby.fun-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://bloby.fun)
+[![Email](https://img.shields.io/badge/michal@bloby.fun-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michal@bloby.fun)
+[![GitHub](https://img.shields.io/badge/Bloby22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bloby22)
 
-## License
-
-- **This project** — [MIT License](LICENSE)
-- **Dart SDK** — [BSD 3-Clause](LICENSE-BSD) (Google)
-
-This project is not affiliated with Google or the MSYS2 project.
+</div>
