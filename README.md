@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Michal — Full-Stack & Systems Developer" width="100%"/>
+<img src="assets/readme/hero.svg" alt="Michal — Full-Stack & Systems Developer" width="100%"/>
 
 </div>
 
 ---
 
-<img src="assets/tech-stack.svg" alt="Tech Stack" width="100%"/>
+<img src="assets/readme/tech-stack.svg" alt="Tech Stack" width="100%"/>
 
 ---
 
@@ -30,7 +30,7 @@
 ## `> ls ./projects`
 
 <a href="https://github.com/Bloby22/mingw64_dart">
-  <img src="assets/project-mingw64-dart.svg" alt="mingw64_dart" width="49%"/>
+  <img src="assets/readme/project-mingw64-dart.svg" alt="mingw64_dart" width="49%"/>
 </a>
 
 ---
